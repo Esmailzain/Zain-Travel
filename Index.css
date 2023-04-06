@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(255, 248, 167);
+}
+#a li a{
+    text-decoration: none;
+}
+#a{
+    background-color: rgb(4, 5, 5);
+    list-style-type: none;
+    display: flex;
+    height: 50px;
+    font-size: 40px;
+}
+#a img{
+    padding-right: 20px;
+}
+#a li a:hover{
+    color: rgb(248, 125, 36);
+    font-size: 80;
+}
+#a span{
+    color: rgb(255, 119, 23);
+}
+#a li1{
+    padding-right: 20px;
+    color: white;
+    font-size: 45px;
+}
+#a li a{
+    padding: 20px;
+    color: white;
+    font-size: 35px;
+}
+#a form{
+    padding-left: 600px;
+}
+#a form button{
+    color: rgb(255, 255, 255);
+    background-color: orange;
+}
+#b {
+    text-align: center;
+    font-size: 35px;
+}
+#b a:hover{
+opacity:0.5 ;
+}
+table, th, td {
+    border: 1px solid black;
+    margin-left:1000px;
+}
+th, td {
+    padding: 10px;
+}
+table th span{
+    background-color: rgb(64, 56, 51);
+}
+tr td {
+    background-color: chocolate;
+    text-align: right;
+    font-size: 30px;
+}
+tr th {
+    text-align: right;
+}
+.E{
+    display: flex;
+}
+.E img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 7px;
+
+}
+.E img:hover{
+    opacity: 0.5;
+}
+h1 span{
+    color: chocolate;
+}
+h1{
+    text-align: center;
+    font-size:50px
+}
+b span{
+    color: chocolate;
+}
+#p video{
+    border-radius: 70px;
+    height: 270px;
+    margin-left: 500px;
+}
+.D{
+    display: flex;
+    justify-content: space-between;
+}
+.D video{
+    border-radius: 70px;
+    height: 270px;
+    margin-top: 0px;
+}
+.R{
+    border: 1px solid black;
+    margin-left:300px;
+    margin-right: 350px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.R th{
+    font-size: 35px;
+}
+.R img{
+    width: 800px;
+    height: 500px;
+    border-radius: 20px;
+}
+audio{
+    padding-left: 1200px;
+}
